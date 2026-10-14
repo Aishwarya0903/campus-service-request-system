@@ -1,0 +1,3 @@
+# Architecture
+
+React client interfaces call one FastAPI REST application. Its ticket service invokes the saved NLP artifact at submission time and stores the result in the relational ticket record. A lightweight in-process background scheduler evaluates open tickets every five minutes by default; the SLA artifact produces a probability and the notification/escalation service persists internal alerts. PostgreSQL stores users, tickets, histories, notifications, SLA rules, and model-version metadata. The browser UI exposes Student Portal, Staff Dashboard, and Admin Console roles, aligning with the supplied architecture diagram.

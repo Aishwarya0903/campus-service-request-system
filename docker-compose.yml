@@ -1,0 +1,22 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment: {POSTGRES_DB: campus_service, POSTGRES_USER: campus, POSTGRES_PASSWORD: campus}
+    ports: ["5432:5432"]
+    volumes: [postgres_data:/var/lib/postgresql/data]
+  backend:
+    build: ./backend
+    command: sh -c "python ../ml/training/train_models.py && python -m app.seed && uvicorn app.main:app --host 0.0.0.0 --port 8000"
+    environment: {DATABASE_URL: postgresql+psycopg://campus:campus@db:5432/campus_service, JWT_SECRET: development-only-change-me, CORS_ORIGINS: http://localhost:5173}
+    volumes: [./:/workspace]
+    working_dir: /workspace/backend
+    ports: ["8000:8000"]
+    depends_on: [db]
+  frontend:
+    image: node:22-alpine
+    working_dir: /workspace/frontend
+    command: sh -c "npm install && npm run dev -- --host 0.0.0.0"
+    volumes: [./:/workspace]
+    ports: ["5173:5173"]
+    depends_on: [backend]
+volumes: {postgres_data: {}}

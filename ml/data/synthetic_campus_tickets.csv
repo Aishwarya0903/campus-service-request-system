@@ -1,0 +1,401 @@
+text,category,priority
+light is not working in hostel block A,Electrical,LOW
+sparks from power socket near library,Electrical,HIGH
+fan has stopped in classroom 204,Electrical,LOW
+light is not working in hostel block B,Electrical,LOW
+corridor lights are damaged at hostel block A,Electrical,MEDIUM
+light is not working in hostel block B,Electrical,LOW
+fan has stopped in library,Electrical,LOW
+light is not working in library,Electrical,LOW
+corridor lights are damaged at library,Electrical,MEDIUM
+corridor lights are damaged at lab 3,Electrical,MEDIUM
+light is not working in classroom 204,Electrical,LOW
+corridor lights are damaged at ground floor corridor,Electrical,MEDIUM
+sparks from power socket near classroom 204,Electrical,HIGH
+fan has stopped in ground floor corridor,Electrical,LOW
+light is not working in hostel block B,Electrical,LOW
+corridor lights are damaged at hostel block B,Electrical,MEDIUM
+sparks from power socket near ground floor corridor,Electrical,HIGH
+sparks from power socket near hostel block A,Electrical,HIGH
+corridor lights are damaged at hostel block B,Electrical,MEDIUM
+corridor lights are damaged at hostel block B,Electrical,MEDIUM
+sparks from power socket near ground floor corridor,Electrical,HIGH
+fan has stopped in hostel block B,Electrical,LOW
+light is not working in library,Electrical,LOW
+sparks from power socket near hostel block B,Electrical,HIGH
+fan has stopped in hostel block B,Electrical,LOW
+corridor lights are damaged at lab 3,Electrical,MEDIUM
+corridor lights are damaged at ground floor corridor,Electrical,MEDIUM
+fan has stopped in ground floor corridor,Electrical,LOW
+sparks from power socket near library,Electrical,HIGH
+sparks from power socket near hostel block B,Electrical,HIGH
+fan has stopped in library,Electrical,LOW
+fan has stopped in room 312,Electrical,LOW
+corridor lights are damaged at lab 3,Electrical,MEDIUM
+fan has stopped in ground floor corridor,Electrical,LOW
+light is not working in library,Electrical,LOW
+light is not working in ground floor corridor,Electrical,LOW
+corridor lights are damaged at lab 3,Electrical,MEDIUM
+light is not working in library,Electrical,LOW
+sparks from power socket near library,Electrical,HIGH
+corridor lights are damaged at washroom,Electrical,MEDIUM
+corridor lights are damaged at classroom 204,Electrical,MEDIUM
+sparks from power socket near classroom 204,Electrical,HIGH
+fan has stopped in lab 3,Electrical,LOW
+corridor lights are damaged at washroom,Electrical,MEDIUM
+sparks from power socket near library,Electrical,HIGH
+fan has stopped in room 312,Electrical,LOW
+light is not working in hostel block A,Electrical,LOW
+light is not working in classroom 204,Electrical,LOW
+fan has stopped in washroom,Electrical,LOW
+light is not working in washroom,Electrical,LOW
+corridor lights are damaged at room 312,Electrical,MEDIUM
+sparks from power socket near hostel block A,Electrical,HIGH
+light is not working in lab 3,Electrical,LOW
+sparks from power socket near hostel block B,Electrical,HIGH
+sparks from power socket near washroom,Electrical,HIGH
+fan has stopped in room 312,Electrical,LOW
+light is not working in lab 3,Electrical,LOW
+fan has stopped in hostel block B,Electrical,LOW
+sparks from power socket near library,Electrical,HIGH
+fan has stopped in ground floor corridor,Electrical,LOW
+fan has stopped in hostel block A,Electrical,LOW
+sparks from power socket near room 312,Electrical,HIGH
+light is not working in hostel block B,Electrical,LOW
+sparks from power socket near lab 3,Electrical,HIGH
+fan has stopped in hostel block A,Electrical,LOW
+fan has stopped in hostel block B,Electrical,LOW
+light is not working in room 312,Electrical,LOW
+light is not working in classroom 204,Electrical,LOW
+fan has stopped in room 312,Electrical,LOW
+fan has stopped in lab 3,Electrical,LOW
+corridor lights are damaged at library,Electrical,MEDIUM
+fan has stopped in lab 3,Electrical,LOW
+corridor lights are damaged at ground floor corridor,Electrical,MEDIUM
+corridor lights are damaged at room 312,Electrical,MEDIUM
+light is not working in library,Electrical,LOW
+fan has stopped in hostel block B,Electrical,LOW
+sparks from power socket near hostel block A,Electrical,HIGH
+fan has stopped in library,Electrical,LOW
+light is not working in hostel block B,Electrical,LOW
+light is not working in library,Electrical,LOW
+light is not working in hostel block A,Electrical,LOW
+sparks from power socket near hostel block B,Electrical,HIGH
+fan has stopped in lab 3,Electrical,LOW
+corridor lights are damaged at library,Electrical,MEDIUM
+fan has stopped in room 312,Electrical,LOW
+fan has stopped in room 312,Electrical,LOW
+corridor lights are damaged at library,Electrical,MEDIUM
+light is not working in hostel block B,Electrical,LOW
+corridor lights are damaged at ground floor corridor,Electrical,MEDIUM
+corridor lights are damaged at washroom,Electrical,MEDIUM
+corridor lights are damaged at hostel block A,Electrical,MEDIUM
+light is not working in hostel block A,Electrical,LOW
+corridor lights are damaged at ground floor corridor,Electrical,MEDIUM
+light is not working in library,Electrical,LOW
+fan has stopped in library,Electrical,LOW
+corridor lights are damaged at classroom 204,Electrical,MEDIUM
+corridor lights are damaged at classroom 204,Electrical,MEDIUM
+sparks from power socket near room 312,Electrical,HIGH
+fan has stopped in hostel block B,Electrical,LOW
+corridor lights are damaged at hostel block B,Electrical,MEDIUM
+water is leaking from tap in hostel block A,Plumbing,LOW
+water is leaking from tap in library,Plumbing,LOW
+washroom drain is blocked in washroom,Plumbing,MEDIUM
+there is no water supply in room 312,Plumbing,HIGH
+washroom drain is blocked in washroom,Plumbing,MEDIUM
+water is leaking from tap in classroom 204,Plumbing,LOW
+there is no water supply in hostel block A,Plumbing,HIGH
+there is no water supply in lab 3,Plumbing,HIGH
+there is no water supply in lab 3,Plumbing,HIGH
+there is no water supply in room 312,Plumbing,HIGH
+washroom drain is blocked in library,Plumbing,MEDIUM
+broken pipe is flooding library,Plumbing,HIGH
+water is leaking from tap in hostel block A,Plumbing,LOW
+broken pipe is flooding hostel block A,Plumbing,HIGH
+water is leaking from tap in room 312,Plumbing,LOW
+washroom drain is blocked in hostel block A,Plumbing,MEDIUM
+water is leaking from tap in classroom 204,Plumbing,LOW
+water is leaking from tap in hostel block B,Plumbing,LOW
+washroom drain is blocked in washroom,Plumbing,MEDIUM
+water is leaking from tap in library,Plumbing,LOW
+water is leaking from tap in hostel block B,Plumbing,LOW
+there is no water supply in ground floor corridor,Plumbing,HIGH
+broken pipe is flooding library,Plumbing,HIGH
+broken pipe is flooding library,Plumbing,HIGH
+broken pipe is flooding washroom,Plumbing,HIGH
+washroom drain is blocked in lab 3,Plumbing,MEDIUM
+there is no water supply in ground floor corridor,Plumbing,HIGH
+water is leaking from tap in hostel block A,Plumbing,LOW
+there is no water supply in hostel block B,Plumbing,HIGH
+water is leaking from tap in library,Plumbing,LOW
+broken pipe is flooding classroom 204,Plumbing,HIGH
+broken pipe is flooding hostel block B,Plumbing,HIGH
+washroom drain is blocked in ground floor corridor,Plumbing,MEDIUM
+broken pipe is flooding classroom 204,Plumbing,HIGH
+there is no water supply in lab 3,Plumbing,HIGH
+water is leaking from tap in lab 3,Plumbing,LOW
+water is leaking from tap in classroom 204,Plumbing,LOW
+broken pipe is flooding hostel block B,Plumbing,HIGH
+water is leaking from tap in classroom 204,Plumbing,LOW
+broken pipe is flooding lab 3,Plumbing,HIGH
+washroom drain is blocked in ground floor corridor,Plumbing,MEDIUM
+washroom drain is blocked in lab 3,Plumbing,MEDIUM
+there is no water supply in lab 3,Plumbing,HIGH
+water is leaking from tap in hostel block B,Plumbing,LOW
+there is no water supply in lab 3,Plumbing,HIGH
+water is leaking from tap in hostel block A,Plumbing,LOW
+broken pipe is flooding classroom 204,Plumbing,HIGH
+broken pipe is flooding classroom 204,Plumbing,HIGH
+there is no water supply in washroom,Plumbing,HIGH
+water is leaking from tap in hostel block B,Plumbing,LOW
+water is leaking from tap in classroom 204,Plumbing,LOW
+water is leaking from tap in ground floor corridor,Plumbing,LOW
+washroom drain is blocked in washroom,Plumbing,MEDIUM
+washroom drain is blocked in hostel block A,Plumbing,MEDIUM
+broken pipe is flooding ground floor corridor,Plumbing,HIGH
+water is leaking from tap in ground floor corridor,Plumbing,LOW
+washroom drain is blocked in library,Plumbing,MEDIUM
+water is leaking from tap in ground floor corridor,Plumbing,LOW
+there is no water supply in classroom 204,Plumbing,HIGH
+washroom drain is blocked in classroom 204,Plumbing,MEDIUM
+washroom drain is blocked in washroom,Plumbing,MEDIUM
+water is leaking from tap in classroom 204,Plumbing,LOW
+broken pipe is flooding washroom,Plumbing,HIGH
+washroom drain is blocked in lab 3,Plumbing,MEDIUM
+washroom drain is blocked in hostel block B,Plumbing,MEDIUM
+there is no water supply in hostel block A,Plumbing,HIGH
+there is no water supply in library,Plumbing,HIGH
+washroom drain is blocked in room 312,Plumbing,MEDIUM
+broken pipe is flooding lab 3,Plumbing,HIGH
+washroom drain is blocked in library,Plumbing,MEDIUM
+water is leaking from tap in library,Plumbing,LOW
+there is no water supply in ground floor corridor,Plumbing,HIGH
+broken pipe is flooding hostel block B,Plumbing,HIGH
+broken pipe is flooding ground floor corridor,Plumbing,HIGH
+there is no water supply in ground floor corridor,Plumbing,HIGH
+water is leaking from tap in hostel block B,Plumbing,LOW
+broken pipe is flooding classroom 204,Plumbing,HIGH
+broken pipe is flooding hostel block A,Plumbing,HIGH
+water is leaking from tap in washroom,Plumbing,LOW
+broken pipe is flooding ground floor corridor,Plumbing,HIGH
+there is no water supply in hostel block B,Plumbing,HIGH
+there is no water supply in library,Plumbing,HIGH
+broken pipe is flooding hostel block A,Plumbing,HIGH
+there is no water supply in hostel block A,Plumbing,HIGH
+washroom drain is blocked in ground floor corridor,Plumbing,MEDIUM
+there is no water supply in hostel block B,Plumbing,HIGH
+broken pipe is flooding ground floor corridor,Plumbing,HIGH
+water is leaking from tap in lab 3,Plumbing,LOW
+broken pipe is flooding washroom,Plumbing,HIGH
+broken pipe is flooding washroom,Plumbing,HIGH
+broken pipe is flooding classroom 204,Plumbing,HIGH
+washroom drain is blocked in washroom,Plumbing,MEDIUM
+there is no water supply in classroom 204,Plumbing,HIGH
+broken pipe is flooding washroom,Plumbing,HIGH
+water is leaking from tap in lab 3,Plumbing,LOW
+broken pipe is flooding library,Plumbing,HIGH
+there is no water supply in ground floor corridor,Plumbing,HIGH
+there is no water supply in room 312,Plumbing,HIGH
+there is no water supply in library,Plumbing,HIGH
+there is no water supply in classroom 204,Plumbing,HIGH
+wifi is not connecting in lab 3,IT/Network,LOW
+computer will not start in hostel block B,IT/Network,HIGH
+internet keeps disconnecting at lab 3,IT/Network,LOW
+internet keeps disconnecting at library,IT/Network,LOW
+internet keeps disconnecting at hostel block A,IT/Network,LOW
+wifi is not connecting in library,IT/Network,LOW
+projector network connection failed in hostel block B,IT/Network,MEDIUM
+projector network connection failed in washroom,IT/Network,MEDIUM
+internet keeps disconnecting at washroom,IT/Network,LOW
+projector network connection failed in washroom,IT/Network,MEDIUM
+internet keeps disconnecting at classroom 204,IT/Network,LOW
+wifi is not connecting in hostel block B,IT/Network,LOW
+projector network connection failed in library,IT/Network,MEDIUM
+internet keeps disconnecting at room 312,IT/Network,LOW
+wifi is not connecting in library,IT/Network,LOW
+wifi is not connecting in room 312,IT/Network,LOW
+internet keeps disconnecting at room 312,IT/Network,LOW
+computer will not start in room 312,IT/Network,HIGH
+projector network connection failed in room 312,IT/Network,MEDIUM
+internet keeps disconnecting at room 312,IT/Network,LOW
+projector network connection failed in lab 3,IT/Network,MEDIUM
+internet keeps disconnecting at lab 3,IT/Network,LOW
+projector network connection failed in library,IT/Network,MEDIUM
+computer will not start in room 312,IT/Network,HIGH
+wifi is not connecting in lab 3,IT/Network,LOW
+internet keeps disconnecting at lab 3,IT/Network,LOW
+computer will not start in ground floor corridor,IT/Network,HIGH
+wifi is not connecting in classroom 204,IT/Network,LOW
+internet keeps disconnecting at library,IT/Network,LOW
+projector network connection failed in classroom 204,IT/Network,MEDIUM
+internet keeps disconnecting at hostel block B,IT/Network,LOW
+projector network connection failed in washroom,IT/Network,MEDIUM
+computer will not start in room 312,IT/Network,HIGH
+projector network connection failed in hostel block A,IT/Network,MEDIUM
+internet keeps disconnecting at washroom,IT/Network,LOW
+projector network connection failed in hostel block A,IT/Network,MEDIUM
+projector network connection failed in room 312,IT/Network,MEDIUM
+wifi is not connecting in ground floor corridor,IT/Network,LOW
+computer will not start in washroom,IT/Network,HIGH
+projector network connection failed in library,IT/Network,MEDIUM
+projector network connection failed in library,IT/Network,MEDIUM
+computer will not start in washroom,IT/Network,HIGH
+projector network connection failed in hostel block A,IT/Network,MEDIUM
+projector network connection failed in ground floor corridor,IT/Network,MEDIUM
+projector network connection failed in classroom 204,IT/Network,MEDIUM
+projector network connection failed in classroom 204,IT/Network,MEDIUM
+wifi is not connecting in washroom,IT/Network,LOW
+wifi is not connecting in hostel block B,IT/Network,LOW
+projector network connection failed in classroom 204,IT/Network,MEDIUM
+projector network connection failed in classroom 204,IT/Network,MEDIUM
+wifi is not connecting in lab 3,IT/Network,LOW
+projector network connection failed in ground floor corridor,IT/Network,MEDIUM
+internet keeps disconnecting at room 312,IT/Network,LOW
+computer will not start in ground floor corridor,IT/Network,HIGH
+projector network connection failed in lab 3,IT/Network,MEDIUM
+projector network connection failed in lab 3,IT/Network,MEDIUM
+wifi is not connecting in room 312,IT/Network,LOW
+wifi is not connecting in hostel block A,IT/Network,LOW
+computer will not start in library,IT/Network,HIGH
+wifi is not connecting in hostel block A,IT/Network,LOW
+wifi is not connecting in library,IT/Network,LOW
+internet keeps disconnecting at hostel block A,IT/Network,LOW
+internet keeps disconnecting at library,IT/Network,LOW
+internet keeps disconnecting at room 312,IT/Network,LOW
+wifi is not connecting in library,IT/Network,LOW
+projector network connection failed in lab 3,IT/Network,MEDIUM
+computer will not start in classroom 204,IT/Network,HIGH
+wifi is not connecting in classroom 204,IT/Network,LOW
+computer will not start in hostel block B,IT/Network,HIGH
+wifi is not connecting in lab 3,IT/Network,LOW
+projector network connection failed in washroom,IT/Network,MEDIUM
+internet keeps disconnecting at hostel block B,IT/Network,LOW
+internet keeps disconnecting at hostel block B,IT/Network,LOW
+computer will not start in hostel block B,IT/Network,HIGH
+wifi is not connecting in ground floor corridor,IT/Network,LOW
+projector network connection failed in ground floor corridor,IT/Network,MEDIUM
+wifi is not connecting in ground floor corridor,IT/Network,LOW
+wifi is not connecting in washroom,IT/Network,LOW
+projector network connection failed in hostel block B,IT/Network,MEDIUM
+projector network connection failed in ground floor corridor,IT/Network,MEDIUM
+projector network connection failed in classroom 204,IT/Network,MEDIUM
+projector network connection failed in classroom 204,IT/Network,MEDIUM
+computer will not start in room 312,IT/Network,HIGH
+projector network connection failed in washroom,IT/Network,MEDIUM
+computer will not start in ground floor corridor,IT/Network,HIGH
+internet keeps disconnecting at hostel block B,IT/Network,LOW
+computer will not start in room 312,IT/Network,HIGH
+internet keeps disconnecting at room 312,IT/Network,LOW
+projector network connection failed in ground floor corridor,IT/Network,MEDIUM
+wifi is not connecting in room 312,IT/Network,LOW
+computer will not start in classroom 204,IT/Network,HIGH
+projector network connection failed in library,IT/Network,MEDIUM
+computer will not start in lab 3,IT/Network,HIGH
+computer will not start in lab 3,IT/Network,HIGH
+computer will not start in hostel block A,IT/Network,HIGH
+internet keeps disconnecting at hostel block B,IT/Network,LOW
+internet keeps disconnecting at washroom,IT/Network,LOW
+projector network connection failed in library,IT/Network,MEDIUM
+projector network connection failed in room 312,IT/Network,MEDIUM
+projector network connection failed in hostel block A,IT/Network,MEDIUM
+broken bed frame in lab 3,Hostel,MEDIUM
+room door lock is damaged in washroom,Hostel,MEDIUM
+room door lock is damaged in lab 3,Hostel,MEDIUM
+hostel furniture needs repair in room 312,Hostel,LOW
+hostel furniture needs repair in washroom,Hostel,LOW
+hostel furniture needs repair in ground floor corridor,Hostel,LOW
+hostel room maintenance required in lab 3,Hostel,LOW
+hostel furniture needs repair in lab 3,Hostel,LOW
+room door lock is damaged in hostel block B,Hostel,MEDIUM
+room door lock is damaged in ground floor corridor,Hostel,MEDIUM
+broken bed frame in classroom 204,Hostel,MEDIUM
+room door lock is damaged in library,Hostel,MEDIUM
+hostel room maintenance required in lab 3,Hostel,LOW
+hostel furniture needs repair in hostel block B,Hostel,LOW
+room door lock is damaged in lab 3,Hostel,MEDIUM
+room door lock is damaged in ground floor corridor,Hostel,MEDIUM
+room door lock is damaged in lab 3,Hostel,MEDIUM
+broken bed frame in classroom 204,Hostel,MEDIUM
+hostel furniture needs repair in hostel block A,Hostel,LOW
+broken bed frame in lab 3,Hostel,MEDIUM
+room door lock is damaged in room 312,Hostel,MEDIUM
+broken bed frame in hostel block A,Hostel,MEDIUM
+hostel furniture needs repair in room 312,Hostel,LOW
+hostel room maintenance required in room 312,Hostel,LOW
+hostel furniture needs repair in classroom 204,Hostel,LOW
+broken bed frame in lab 3,Hostel,MEDIUM
+hostel room maintenance required in hostel block B,Hostel,LOW
+broken bed frame in washroom,Hostel,MEDIUM
+hostel room maintenance required in hostel block B,Hostel,LOW
+broken bed frame in classroom 204,Hostel,MEDIUM
+room door lock is damaged in lab 3,Hostel,MEDIUM
+broken bed frame in library,Hostel,MEDIUM
+broken bed frame in washroom,Hostel,MEDIUM
+room door lock is damaged in washroom,Hostel,MEDIUM
+hostel room maintenance required in room 312,Hostel,LOW
+hostel furniture needs repair in washroom,Hostel,LOW
+hostel furniture needs repair in hostel block A,Hostel,LOW
+broken bed frame in library,Hostel,MEDIUM
+room door lock is damaged in lab 3,Hostel,MEDIUM
+broken bed frame in classroom 204,Hostel,MEDIUM
+room door lock is damaged in classroom 204,Hostel,MEDIUM
+broken bed frame in classroom 204,Hostel,MEDIUM
+broken bed frame in washroom,Hostel,MEDIUM
+hostel room maintenance required in room 312,Hostel,LOW
+hostel furniture needs repair in hostel block A,Hostel,LOW
+room door lock is damaged in lab 3,Hostel,MEDIUM
+hostel furniture needs repair in room 312,Hostel,LOW
+broken bed frame in library,Hostel,MEDIUM
+hostel furniture needs repair in library,Hostel,LOW
+hostel room maintenance required in hostel block B,Hostel,LOW
+room door lock is damaged in classroom 204,Hostel,MEDIUM
+hostel furniture needs repair in classroom 204,Hostel,LOW
+broken bed frame in hostel block A,Hostel,MEDIUM
+room door lock is damaged in lab 3,Hostel,MEDIUM
+hostel furniture needs repair in room 312,Hostel,LOW
+broken bed frame in room 312,Hostel,MEDIUM
+hostel furniture needs repair in washroom,Hostel,LOW
+hostel furniture needs repair in room 312,Hostel,LOW
+hostel room maintenance required in hostel block B,Hostel,LOW
+broken bed frame in washroom,Hostel,MEDIUM
+hostel furniture needs repair in lab 3,Hostel,LOW
+broken bed frame in hostel block B,Hostel,MEDIUM
+room door lock is damaged in hostel block A,Hostel,MEDIUM
+hostel furniture needs repair in hostel block A,Hostel,LOW
+room door lock is damaged in room 312,Hostel,MEDIUM
+hostel room maintenance required in lab 3,Hostel,LOW
+room door lock is damaged in washroom,Hostel,MEDIUM
+hostel room maintenance required in hostel block B,Hostel,LOW
+hostel room maintenance required in ground floor corridor,Hostel,LOW
+hostel room maintenance required in ground floor corridor,Hostel,LOW
+hostel furniture needs repair in hostel block B,Hostel,LOW
+room door lock is damaged in ground floor corridor,Hostel,MEDIUM
+hostel room maintenance required in room 312,Hostel,LOW
+hostel furniture needs repair in washroom,Hostel,LOW
+broken bed frame in room 312,Hostel,MEDIUM
+broken bed frame in ground floor corridor,Hostel,MEDIUM
+hostel furniture needs repair in ground floor corridor,Hostel,LOW
+broken bed frame in washroom,Hostel,MEDIUM
+broken bed frame in room 312,Hostel,MEDIUM
+hostel room maintenance required in hostel block A,Hostel,LOW
+room door lock is damaged in ground floor corridor,Hostel,MEDIUM
+hostel room maintenance required in room 312,Hostel,LOW
+broken bed frame in library,Hostel,MEDIUM
+hostel furniture needs repair in classroom 204,Hostel,LOW
+hostel furniture needs repair in room 312,Hostel,LOW
+hostel room maintenance required in hostel block B,Hostel,LOW
+broken bed frame in library,Hostel,MEDIUM
+room door lock is damaged in lab 3,Hostel,MEDIUM
+broken bed frame in washroom,Hostel,MEDIUM
+broken bed frame in library,Hostel,MEDIUM
+broken bed frame in room 312,Hostel,MEDIUM
+broken bed frame in classroom 204,Hostel,MEDIUM
+hostel room maintenance required in lab 3,Hostel,LOW
+hostel furniture needs repair in washroom,Hostel,LOW
+hostel room maintenance required in room 312,Hostel,LOW
+room door lock is damaged in room 312,Hostel,MEDIUM
+room door lock is damaged in washroom,Hostel,MEDIUM
+room door lock is damaged in classroom 204,Hostel,MEDIUM
+broken bed frame in lab 3,Hostel,MEDIUM
+hostel room maintenance required in ground floor corridor,Hostel,LOW
