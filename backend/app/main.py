@@ -409,6 +409,7 @@ class Register(BaseModel):
 class Login(BaseModel):
     email: str
     password: str
+    portal: str
 
 
 class TicketCreate(BaseModel):
@@ -1114,58 +1115,54 @@ def login(
     data: Login,
     s: Session = Depends(db),
 ):
-
     user = s.scalar(
-        select(User).where(
-            User.email == data.email
-        )
+        select(User).where(User.email == data.email)
     )
 
-
-    if (
-        not user
-        or not pwd.verify(
-            data.password,
-            user.password_hash,
-        )
-    ):
-
+    if not user or not pwd.verify(data.password, user.password_hash):
         raise HTTPException(
             status_code=401,
             detail="Invalid email or password",
         )
 
-
     if not user.active:
-
         raise HTTPException(
             status_code=403,
             detail=(
-                "Your account has been "
-                "deactivated. Please contact "
-                "the administrator."
+                "Your account has been deactivated. "
+                "Please contact the administrator."
             ),
         )
 
+    expected_roles = {
+        "student": Role.STUDENT.value,
+        "staff": Role.STAFF.value,
+        "admin": Role.ADMIN.value,
+    }
+    expected_role = expected_roles.get(data.portal.strip().lower())
+
+    if expected_role is None:
+        raise HTTPException(
+            status_code=400,
+            detail="Invalid portal selected",
+        )
+
+    if user.role != expected_role:
+        raise HTTPException(
+            status_code=403,
+            detail=(
+                "Access denied. These credentials do not belong "
+                f"to the {data.portal.strip().title()} Portal."
+            ),
+        )
 
     return {
-        "access_token":
-            token_for(user),
-
-        "id":
-            user.id,
-
-        "name":
-            user.name,
-
-        "email":
-            user.email,
-
-        "role":
-            user.role,
-
-        "department":
-            user.department,
+        "access_token": token_for(user),
+        "id": user.id,
+        "name": user.name,
+        "email": user.email,
+        "role": user.role,
+        "department": user.department,
     }
 
 
